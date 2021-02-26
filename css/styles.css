@@ -25,6 +25,8 @@ nav {display:flex;
 	justify-content: center;
 	align-items: center;}
 
+.mybut:hover {background-color: #F7AC34;}
+
 .my-font {font-family: 'Montserrat', sans-serif;}
 
 #my-id { color: white; 
